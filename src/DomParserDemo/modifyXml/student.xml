@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><class>
+    <student rollno="301">
+        <firstname id="ST1">dinkar</firstname>
+        <lastname>kad</lastname>
+        <nickname>dinkar</nickname>
+        <marks subject="all">85</marks>
+    </student>
+
+    <student rollno="302">
+        <firstname id="ST2">Vaneet</firstname>
+        <lastname>Gupta</lastname>
+        <nickname>vinni</nickname>
+        <marks subject="all">95</marks>
+    </student>
+
+    <student rollno="303">
+        <firstname id="ST3">jasvir</firstname>
+        <lastname>singn</lastname>
+        <nickname>jazz</nickname>
+        <marks subject="all">90</marks>
+    </student>
+</class>
